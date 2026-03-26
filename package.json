@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bedrock-protocol": "^3.48.1",
+    "minecraft-server-util": "^5.4.4",
+    "pidusage": "^4.0.1",
+    "telegraf": "^4.16.3"
+  }
+}
